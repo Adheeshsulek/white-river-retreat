@@ -387,7 +387,7 @@ const App = () => {
               <div className="space-y-6">
                 <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center"><Phone size={20}/></div>
-                  <span>+91 98765 43210</span>
+                  <span>+91 9740322538</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center"><Mail size={20}/></div>
@@ -523,7 +523,7 @@ const App = () => {
               <Phone className="text-emerald-600 shrink-0" size={24} />
               <div>
                 <h4 className="font-bold text-lg">Contact</h4>
-                <p className="text-slate-600">+91 98765 43210 / 08173 234567</p>
+                <p className="text-slate-600">+91 9740322538</p>
               </div>
             </div>
             <div className="flex gap-4">
@@ -599,7 +599,7 @@ const App = () => {
 
       {/* Floating Action Buttons */}
       <div className="fixed bottom-6 right-6 flex flex-col gap-3 z-40">
-        <a href="https://wa.me/919876543210" className="w-14 h-14 bg-emerald-500 text-white rounded-full flex items-center justify-center shadow-2xl hover:bg-emerald-600 transition-all group relative">
+        <a href="https://wa.me/9740322538" className="w-14 h-14 bg-emerald-500 text-white rounded-full flex items-center justify-center shadow-2xl hover:bg-emerald-600 transition-all group relative">
           <MessageCircle size={24} />
           <span className="absolute right-16 bg-white text-emerald-900 px-4 py-1 rounded-lg text-sm font-bold opacity-0 group-hover:opacity-100 transition-all pointer-events-none whitespace-nowrap shadow-lg">WhatsApp Us</span>
         </a>
